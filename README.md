@@ -18,3 +18,7 @@ Smart Valve - https://www.amazon.ca/gp/product/B07SG48KSW/ref=ppx_yo_dt_b_asin_t
 Costco CE smart plugs
 Sonoff S31 
 
+
+API vs MQTT
+============================================
+Considerations: API vs MQTT  on ESPhome https://www.reddit.com/r/homeassistant/comments/d4s7mb/use_ha_with_mqtt_or_direct_api/
